@@ -1,8 +1,35 @@
-# React + Vite
+# Planti - Buy and Sell Plants 🌱
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Planti is a web application that allows users to buy and sell plants with ease. This project is built using Vite, React, and SCSS to provide a seamless experience for plant enthusiasts.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- User Registration: Create an account to start selling or buying plants.
+- User Sign-In: Securely log in to your account.
+- Responsive Design: Access the platform on different devices.
+
+## Getting Started
+
+Follow these instructions to set up and run the Planti web application locally.
+
+### Prerequisites
+
+- Node.js: Make sure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Peerada-s/planti-register-login
+
